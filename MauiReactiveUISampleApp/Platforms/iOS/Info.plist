@@ -28,13 +28,5 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
-<!-- App does not crash, but everything is black -->
-<!--	<key>UIApplicationSceneManifest</key>-->
-<!--	<dict>-->
-<!--		<key>UIApplicationSupportsMultipleScenes</key>-->
-<!--		<false/>-->
-<!--		<key>UISceneConfigurations</key>-->
-<!--		<dict/>-->
-<!--	</dict>-->
 </dict>
 </plist>
