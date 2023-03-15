@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rxui:ReactiveContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                          xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                          xmlns:rxui="clr-namespace:ReactiveUI.Maui;assembly=ReactiveUI.Maui"
+                          xmlns:local="clr-namespace:MauiReactiveUISampleApp"
+                          x:Class="MauiReactiveUISampleApp.MainPage"
+                          x:TypeArguments="local:MainViewModel"
+                          Title="Main">
+
+    <Label Text="Hello, World!" HorizontalOptions="Center" VerticalOptions="Center" />
+</rxui:ReactiveContentPage>
